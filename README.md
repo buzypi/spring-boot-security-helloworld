@@ -1,4 +1,4 @@
-This project shows a fully functioning Spring Boot application which demonstrates how to build an authentication service in your web application. The application makes use of users in a MySQL database to authenticate and decide whether the requesst must be allowed or not.
+This project shows a fully functioning Spring Boot application which demonstrates how to build an authentication service in your web application. The application makes use of users in a MySQL database to authenticate and decide whether the request must be allowed or not.
 
 # Running this application
 1. Create a database and a user using the following commands:
